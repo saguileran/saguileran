@@ -15,8 +15,8 @@
 -->
 
 
-<div align="center">
-  <a href="https://github.com/skoudoro"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' ></a>  
-  <a href="https://www.linkedin.com/in/serge-koudoro"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a>  
-  <a href="https://twitter.com/skoudoro"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
+<div align="right">
+  <a href="https://github.com/skoudoro"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' ></a>  
+  <a href="https://www.linkedin.com/in/serge-koudoro"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'> </a>  
+  <a href="https://twitter.com/skoudoro"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'></a>
 </div>
