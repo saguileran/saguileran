@@ -12,16 +12,12 @@
 - 🏛️  Some side projects during my free time:
   - Acoustic instruments simulations: data creation, processing, and visualization
   - Educational questions bank using Moodle
-- 🧩 Some of my hobbies are:
-    - Learn music and violin instrument
-    - Play video games
-    - Agriculture
-    - Cycling
+- 🧩 Some of my hobbies are: learn music and violin, play video games, agriculture, and cycling
 
 
 
 <div align="right">
-  <a href="https://github.com/saguileran"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20' ></a>  
-  <a href="https://www.linkedin.com/in/saguileran"><img src='https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png' alt='linkedin' height='20'> </a>  
-  <a href="mailto:saguileran@unal.edu.co"><img src='https://icons-for-free.com/iconfiles/png/512/email+envelope+letter+mail+messages+icon-1320196712706027480.png' alt='mail' height='20'></a>
+  <a href="https://github.com/saguileran"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25' ></a>  
+  <a href="https://www.linkedin.com/in/saguileran"><img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='25'> </a>  
+  <a href="mailto:saguileran@unal.edu.co"><img src='https://icons-for-free.com/iconfiles/png/512/email+envelope+letter+mail+messages+icon-1320196712706027480.png' alt='mail' height='25'></a>
 </div>
