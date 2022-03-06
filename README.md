@@ -6,7 +6,7 @@
 - 🛠️  I'm working on the following projects:
   - [**APRENDER**](https://preparatorioaprender.co) - Frontend design and backend development for the  website with Moodle as integrated platform for educational purposes
   - **BirdSong** - Develop a ML code to detect and classify birdsongs from soundscapes 
-- ⚙️  I use daily Python and Latex, also I have knowledge of Matlab, C, C++, Html, Css, Js
+- ⚙️  I use daily Python and Latex, but I also have knowledge of Matlab, C, C++, Html, Css, Js
 - 📗  I’m still learning a lot about **Machine Learning**, **Numerical Methods to Physics**, and **Computer Graphics** 
 - 📫  Feel free to reach me on [linkedin](https://www.linkedin.com/in/serge-koudoro) or by email on [saguileran@unal.edu.co](mailto:saguileran@unal.edu.co)
 - 🏛️  Some side projects during my free time:
