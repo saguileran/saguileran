@@ -17,7 +17,7 @@
 Do not forget visit my homepage: [saguileran.github.io](https://saguileran.github.io/) here you can find some personal information and my current projects.
 
 <div align="right">
-  <a href="https://github.com/saguileran"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25' ></a>  
-  <a href="https://www.linkedin.com/in/saguileran"><img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='25'> </a>  
-  <a href="mailto:saguileran@unal.edu.co"><img src='https://icons-for-free.com/iconfiles/png/512/email+envelope+letter+mail+messages+icon-1320196712706027480.png' alt='mail' height='25'></a>
+  <a href="https://github.com/saguileran"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35' ></a>  
+  <a href="https://www.linkedin.com/in/saguileran"><img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='35'> </a>  
+  <a href="mailto:saguileran@unal.edu.co"><img src='https://icons-for-free.com/iconfiles/png/512/email+envelope+letter+mail+messages+icon-1320196712706027480.png' alt='mail' height='35'></a>
 </div>
