@@ -14,7 +14,7 @@
   - Educational questions bank using Moodle
 - 🧩 Some of my hobbies are: learn music and violin, play video games, agriculture, and cycling
 
-Here is my homepage: [saguileran.github.io](https://saguileran.github.io/)
+Do not forget visit my homepage: [saguileran.github.io](https://saguileran.github.io/) here you can find some personal information and my current projects.
 
 <div align="right">
   <a href="https://github.com/saguileran"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25' ></a>  
