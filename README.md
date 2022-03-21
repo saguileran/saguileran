@@ -12,9 +12,14 @@
 - 🏛️  Some side projects during my free time:
   - Acoustic instruments simulations: data creation, processing, and visualization
   - Educational questions bank using Moodle
-- 🧩 Some of my hobbies are: learn music and violin, play video games, agriculture, and cycling
+- 🧩 Some of my hobbies are: learn music and violin, play video games, agriculture, cycling, and solve tricky integrals, are you able to solve any of the following?
 
-Do not forget visit my homepage: [saguileran.github.io](https://saguileran.github.io/) here you can find some personal information and my current projects.
+![image](https://user-images.githubusercontent.com/42812846/159194691-8ae39e5f-e2ed-47e6-ab5b-8c93afcc879a.png)
+
+If you know some triky integral share it with me =).
+
+Do not forget visit my homepage [saguileran.github.io](https://saguileran.github.io/) where you can find some personal information and my current projects. 
+
 
 <div align="right">
   <a href="https://github.com/saguileran"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35' ></a>  
