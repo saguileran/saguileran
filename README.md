@@ -2,7 +2,7 @@
 
 ---
 
-- 🎓  Currently, I finished my bachelor's degree in physics at **Univerisdad Nacional de Colombia**, last year
+- 🎓  Rececent graduate in bachelor's physics from the **Univerisdad Nacional de Colombia**
 - 🛠️  I'm working on the following projects:
   - [**APRENDER**](https://saguileran.github.io/aprender/) - Frontend design and backend development for the  website with Moodle as integrated platform for educational purposes
   - [**BirdSong**](https://saguileran.github.io/birdsongs/) - Automate the generation of bird songs using a nonlinear model and numerical optimization techniques
