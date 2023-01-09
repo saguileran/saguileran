@@ -16,14 +16,14 @@
 
 - 🎓  Rececent graduate in bachelor's physics from the **Univerisdad Nacional de Colombia**
 - 🛠️  I'm working on the following projects:
-  - [**APRENDER**](https://saguileran.github.io/aprender/) - Frontend design and backend development for the  website with Moodle as integrated platform for educational purposes
-  - [**BirdSong**](https://saguileran.github.io/birdsongs/) - Automate the generation of bird songs using a nonlinear model and numerical optimization techniques
+  - 🧑‍🏫 [**APRENDER**](https://saguileran.github.io/aprender/) - Frontend design and backend development for the  website with Moodle as integrated platform for educational purposes
+  - 🐦 [**BirdSong**](https://saguileran.github.io/birdsongs/) - Automate the generation of bird songs using a nonlinear model and numerical optimization techniques
 - ⚙️  I use daily Python and Latex, but I also have knowledge of Matlab, C, C++, Html, Css, Js
 - 📗  I’m still learning a lot about **Machine Learning**, **Numerical Methods to Physics**, **Data Visualization**, and **Numerical Analysis**
 - 📫  Feel free to reach me on [linkedin](https://www.linkedin.com/in/serge-koudoro) or by email on [saguileran@unal.edu.co](mailto:saguileran@unal.edu.co)
 - 🏛️  Some side projects during my free time:
-  - Acoustic instruments simulations: data creation, processing, and visualization
-  - Educational questions bank using Moodle
+  - 🎵 Acoustic instruments simulations: data creation, processing, and visualization
+  - 📝 Educational question bank using Moodle
 - 🧩 Some of my hobbies are: learn music and violin, play video games, agriculture, cycling, and solve tricky integrals, are you able to solve any of the following?
 
 ![image](https://user-images.githubusercontent.com/42812846/159194691-8ae39e5f-e2ed-47e6-ab5b-8c93afcc879a.png)
