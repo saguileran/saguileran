@@ -101,11 +101,23 @@ If you know some triky integral share it with me =).
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saguileran&theme=default&hide_border=true"/>
 </p>
 
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saguileran&theme=default"/>
 </p>
 
+
+# Current Projects 
+
+<p align="center">
+<a href="https://github.com/saguileran/birdsongs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saguileran&repo=birdsongs"/>
+</a>
+<a href="https://github.com/saguileran/birdsongs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saguileran&repo=saguileran.github.io"/>
+</a>
+</p>
+
+<br>
 
 Do not forget visit my homepage [saguileran.github.io](https://saguileran.github.io/) where you can find some personal information and my current projects. 
 
