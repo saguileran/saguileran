@@ -88,21 +88,24 @@ If you know some triky integral share it with me =).
 
 # Stats
 
+
+
 <p align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saguileran&hide=html&theme=default"/> 
+  <img height="250" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saguileran&hide=html&theme=default"/> 
+  <img height="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=saguileran"/> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saguileran"/> 
+  
 </p>
 
 <p align="center">
 <a href="https://github.com/saguileran?tab=repositories">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saguileran&theme=default&hide_border=true"/>
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=saguileran&theme=default&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saguileran&theme=default"/>
+  <img height="250" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saguileran&theme=default"/>
 </p>
 
 
