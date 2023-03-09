@@ -16,8 +16,11 @@
 
 - 🎓  Rececent graduate in bachelor's physics from the **Univerisdad Nacional de Colombia**
 - 🛠️  I'm working on the following projects:
-  - 🧑‍🏫 [**APRENDER**](https://saguileran.github.io/aprender/) - Frontend design and backend development for the  website with Moodle as integrated platform for educational purposes
-  - 🐦 [**BirdSong**](https://saguileran.github.io/birdsongs/) - Automate the generation of bird songs using a nonlinear model and numerical optimization techniques
+  - 🐦 [**BirdSongs**](https://saguileran.github.io/birdsongs/) - Automate the generation of bird songs using a nonlinear model and numerical optimization techniques.
+  - 🧬 [**MR-AS4/COL**](https://saguileran.github.io/MD-SCPI/) - Evaluation of the unbinding kinetics of Mineralocorticoid (MR) receptor steroid agonist Cortisol (COL) and Aldosterone (AS4) ligands using Molecular Dynamics (MD) and Monte Carlo (MC) simulations.
+  - 🎶 [**maad-toolbox**](https://github.com/scikit-maad/scikit-maad) - Contribute to the sound toolbox by implementing some acoustical traits functions for audio analysis.
+  - 🏫 [**APRENDER**](https://saguileran.github.io/aprender/) - Frontend design and backend development for the  website with Moodle as integrated platform for educational purposes. This project is in pause for now.
+  
 - ⚙️  I use daily Python and Latex, but I also have knowledge of Matlab, C, C++, Html, Css, Js
 - 📗  I’m still learning a lot about **Machine Learning**, **Numerical Methods to Physics**, **Data Visualization**, and **Numerical Analysis**
 - 📫  Feel free to reach me on [linkedin](https://www.linkedin.com/in/serge-koudoro) or by email on [saguileran@unal.edu.co](mailto:saguileran@unal.edu.co)
