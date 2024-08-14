@@ -13,12 +13,14 @@
 </p>
 
 
-- 🎓  Rececent graduate in bachelor's physics from the **Univerisdad Nacional de Colombia**
+- 🎓  Physicist of the **Univerisdad Nacional de Colombia**
 - 🛠️  I'm working on the following projects:
+  - MarBAI
   - 🐦 [**BirdSongs**](https://saguileran.github.io/birdsongs/) - Automate the generation of bird songs using a nonlinear model and numerical optimization techniques.
-  - 🏫 [**Aprender**](https://saguileran.github.io/aprender/) - Frontend design and backend development for the website with Moodle as integrated platform for educational purposes. Additioanlly, teach mathematics and physics. This project is in pause for now.
 - 💼  I worked on the following projects:
-  - 🧬 [**MR-AS4/COL**](https://saguileran.github.io/MD-SCPI/) - Evaluation of the unbinding kinetics of Mineralocorticoid (MR) receptor steroid agonist Cortisol (COL) and Aldosterone (AS4) ligands using Molecular Dynamics (MD) and Monte Carlo (MC) simulations.
+  - 🧬 [**MR-AS4/COL**](https://saguileran.github.io/MD-SCPI/) - Evaluation of the unbinding kinetics of Mineralocorticoid (MR) receptor steroid agonist Cortisol (COL) and
+  - 🏫 [**Aprender**](https://saguileran.github.io/aprender/) - Frontend design and backend development for the website with Moodle as integrated platform for educational purposes. Additioanlly, teach mathematics and physics. This project is in pause for now.
+Aldosterone (AS4) ligands using Molecular Dynamics (MD) and Monte Carlo (MC) simulations.
   - 🎶 [**maad-toolbox**](https://github.com/scikit-maad/scikit-maad) - Contribute to the sound toolbox by implementing some acoustical traits functions for audio analysis
   
 - ⚙️  I use daily Python, Markdown, and Latex. Nevertheless, I also have knowledge of Java, Matlab, C, C++, Html, Css, Js, and others.
