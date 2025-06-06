@@ -201,7 +201,10 @@
 
 <br>
 
+---
+
 Do not forget visit my homepage [www.saguileran.co](https://saguileran.github.io/) where you can find some personal information and my current projects. 
+
 <div align="right">
   <a href="https://github.com/saguileran"> <img src='https://img.icons8.com/ios_filled/512/github.png' alt='github' height='35' ></a> 
   <a href="https://saguileran.github.io/"><img src='https://images.vexels.com/media/users/3/140527/isolated/preview/449b95d58f554656b159dd3ca21ab123-home-round-icon.png' alt='homepage' height='35'> </a>  
@@ -209,7 +212,6 @@ Do not forget visit my homepage [www.saguileran.co](https://saguileran.github.io
   <a href="mailto:saguileran@ime.usp.br"><img src='https://static.vecteezy.com/system/resources/thumbnails/014/440/980/small_2x/email-message-icon-design-in-blue-circle-png.png' alt='mail' height='35'></a>
 </div>
 
-# Bye! 👋🏽
 
 <!--
 <a align='center' href="https://wakatime.com/@2502acb2-1684-4597-a422-d30dfa6a2f67"><img src="https://wakatime.com/badge/user/2502acb2-1684-4597-a422-d30dfa6a2f67.svg?style=for-the-badge" alt="Total time coded since Jan 8 2023" /></a>
